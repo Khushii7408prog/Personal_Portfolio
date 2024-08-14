@@ -40,7 +40,7 @@ const Banner = () => {
                          I am <span className='font-bold underline' ref={el}></span>
                     </h2>
                     <p className='mt-3 text-lg text-gray-600'>
-                        I am a passionate Java Developer with over X years of experience in building scalable web applications and solving complex problems. I specialize in Java Spring Boot, RESTful APIs, and have a strong foundation in cloud technologies like AWS. I enjoy tackling new challenges and continuously improving my skills. Currently, I am looking for opportunities to contribute to innovative projects and grow my expertise in software development.
+                        I am a passionate Java Developer with over 2 years of experience in building scalable web applications and solving complex problems. I specialize in Java Spring Boot, RESTful APIs, and have a strong foundation in cloud technologies like AWS. I enjoy tackling new challenges and continuously improving my skills. Currently, I am looking for opportunities to contribute to innovative projects and grow my expertise in software development.
                     </p>
                     <br />
                     <div className="icons-container flex space-x-5">

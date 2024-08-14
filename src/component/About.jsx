@@ -6,11 +6,10 @@ const About = () => {
         image: bannerImage,
         title: "Java Developer and Backend Developer",
         desc1: 'Hello! I am Khushboo Bharti, a passionate Java Developer with a strong background in building scalable web applications using Java Spring Boot and other technologies. I enjoy tackling complex challenges and continuously improving my skills. Currently, I am seeking opportunities to contribute to innovative projects and further grow my expertise in software development.',
-        desc2: `In my career, I have successfully led and contributed to various high-impact projects, such as [Project Name], which enhanced [specific result or improvement]. I am skilled in Java, Spring Boot, REST APIs, and cloud technologies like AWS. With a degree in Computer Science from [University Name], I am passionate about leveraging my skills to build innovative solutions and drive technological advancement.
+        desc2: `Throughout my career, I have successfully contributed to high-impact projects, including the Chemical & Reagent Inventory and Management System and the Control Panel, where I developed backend functionalities, implemented database interactions, and deployed applications on Tomcat servers. My strong problem-solving skills, coupled with my ability to collaborate effectively with cross-functional teams, have enabled me to deliver robust and efficient solutions.
+                I hold a Bachelor of Technology in Computer Science and Engineering from Dr. Ram Manohar Lohia Avadh University, Ayodhya. I am always eager to take on new challenges, learn new technologies, and contribute to innovative projects that drive technological advancement. If you're looking for a dedicated and skilled developer to join your team, feel free to connect with me on LinkedIn or reach out via email at khushboobharti342@gmail.com.
 
-        I am always eager to take on new challenges and continuously improve my expertise. I am looking for opportunities where I can contribute to cutting-edge projects and grow both personally and professionally. I value collaboration and am committed to learning and sharing knowledge with others in the tech community. 
-        
-        Feel free to connect with me on LinkedIn or reach out via email at [email address] for potential collaborations or career opportunities.`,
+              This introduction highlights your technical skills, work experience, and projects in a concise and professional manner, making it clear to potential employers or collaborators what you bring to the table.`,
         
         actionButton: {
             title: "Read More",
